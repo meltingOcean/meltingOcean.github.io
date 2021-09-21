@@ -11,9 +11,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "금융데이터 바다에 빠져사는 주니어 퀀트디자이너"
+title                    : "Quant Art Center"
 title_separator          : "-"
-subtitle                 : "A Jekyll theme"
+subtitle                 : "금융데이터 바다에 빠져사는 주니어 퀀트디자이너"
 name                     : &name "Michael Rose" # &name is a YAML anchor which can be *referenced later
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url                      : https://meltingOcean.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
