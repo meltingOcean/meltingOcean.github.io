@@ -37,5 +37,6 @@ texture:
 # theme: texture
 
 plugins:
+  - jekyll-include-cache
   - jekyll-seo-tag
 #  - jekyll-feed
