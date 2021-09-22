@@ -6,4 +6,4 @@ main:
     - title : "About"
       url   : /about/
     - title : "블로그"
-	  url   : /MakingBlog/
+      url   : /MakingBlog/
