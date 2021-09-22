@@ -95,7 +95,7 @@ analytics:
 
 
 # Site Author
-author:
+author: SeungHyuck Jung
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/cat_in_forest.jpg"
   bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
