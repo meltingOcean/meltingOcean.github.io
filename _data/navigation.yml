@@ -2,7 +2,7 @@
 
 main:
     - title : "HOME"
-	  url   : https://meltingOcean.github.io
+      url   : https://meltingOcean.github.io
     - title : "About"
       url   : /about/
     - title : "블로그"
