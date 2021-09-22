@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : "Quant Atelier"
 title_separator          : "-"
 subtitle                 : "인공지능 퀀트전략 공방"
-name                     : &name "Michael Rose" # &name is a YAML anchor which can be *referenced later
+name                     : "SeungHyuck Jung" # &name is a YAML anchor which can be *referenced later
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url                      : https://meltingOcean.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -69,21 +69,21 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : &twitter "mmistakes"
-facebook:
-  username               : &facebook "michaelrose"
-  app_id                 :
-  publisher              :
+# twitter:
+  # username               : &twitter "mmistakes"
+# facebook:
+  # username               : &facebook "michaelrose"
+  # app_id                 :
+  # publisher              :
 og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles, used in _includes/seo.html
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-    - "https://twitter.com/mmistakes"
-    - "https://www.facebook.com/michaelrose"
+# social:
+  # type                   : # Person or Organization (defaults to Person)
+  # name                   : # If the user or organization name differs from the site's name
+  # links: # An array of links to social media profiles
+    # - "https://twitter.com/mmistakes"
+    # - "https://www.facebook.com/michaelrose"
 
 # Analytics
 analytics:
@@ -97,8 +97,8 @@ analytics:
 author:
   name             : "SeungHyuck, Jung" # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/cat_in_forest.jpg"
-  bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
-  location         : "Buffalo, NY"
+  bio              : "SungKyunKwan"
+  location         : "ROK, Suwon"
   links:
     - label: "Made Mistakes"
       icon: "fas fa-fw fa-link"
@@ -117,15 +117,10 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://github.com/meltingOcean"
+
 
 
 # Reading Files
