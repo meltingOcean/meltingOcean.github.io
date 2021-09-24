@@ -219,7 +219,7 @@ defaults:
     values:
       layout: single
       read_time: false
-      author_profile: false
+      author_profile: true
       share: false
       comments: false
       sidebar:
@@ -248,7 +248,7 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
 
 
