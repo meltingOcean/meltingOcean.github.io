@@ -100,18 +100,12 @@ author:
   bio              : "SungKyunKwan"
   location         : "ROK, Suwon"
   links:
-    - label: "Made Mistakes"
+    - label: "meltingOcean"
       icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+      url: "https://meltingOcean.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://github.com/meltingOcean"
 
 
 # Site Footer
