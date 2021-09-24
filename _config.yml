@@ -192,7 +192,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "posts"
       type: posts
     values:
       layout: single
