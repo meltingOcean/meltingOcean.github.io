@@ -15,9 +15,9 @@ docs:
       - title: "Machine-Learning Strategy"
         url: /docs/machine-learning-strategy/
       - title: "Deep-Learning Strategy"
-        url: /docs/structure/
-      - title: "Technical-analysis Strategy"
-        url: /docs/installation/
+        url: /docs/deep-learning-strategy/
+      - title: "Technical-Analysis Strategy"
+        url: /docs/technical-analysis-strategy/
 
   - title: Study
     children:
