@@ -198,7 +198,7 @@ defaults:
       layout: single
       author_profile: true
       sidebar:
-      nav: "docs"
+        nav: "docs"
   # _pages
   - scope:
       path: ""
@@ -207,7 +207,7 @@ defaults:
       layout: single
       author_profile: true
       sidebar:
-      nav: "docs"
+        nav: "docs"
   # _docs
   - scope:
       path: ""
