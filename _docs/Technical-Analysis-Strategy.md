@@ -7,3 +7,9 @@ redirect_from:
   - /theme-setup/
 toc: true
 ---
+
+### 1. Bollinger Band
+
+
+
+### 2. Dual Momentum(듀얼모멘텀)
