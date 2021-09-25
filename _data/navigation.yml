@@ -10,46 +10,22 @@ main:
 
 
 docs:
-  - title: Getting Started
+  - title: Quant_Strategy
     children:
-      - title: "Quick-Start Guide"
+      - title: "Machine-Learning Strategy"
         url: /docs/quick-start-guide/
-      - title: "Structure"
+      - title: "Deep-Learning Strategy"
         url: /docs/structure/
-      - title: "Installation"
+      - title: "Technical-analysis Strategy"
         url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
 
-  - title: Customization
+  - title: Study
     children:
-      - title: "Configuration"
+      - title: "AI"
         url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
 
-  - title: Content
+  - title: Project
     children:
-      - title: "Working with Posts"
+      - title: "--"
         url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
 
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
