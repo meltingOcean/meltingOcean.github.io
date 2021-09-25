@@ -13,7 +13,7 @@ docs:
   - title: Quant_Strategy
     children:
       - title: "Machine-Learning Strategy"
-        url: /docs/Machine-Learning-Strategy/
+        url: /docs/machine-learning-strategy/
       - title: "Deep-Learning Strategy"
         url: /docs/structure/
       - title: "Technical-analysis Strategy"
