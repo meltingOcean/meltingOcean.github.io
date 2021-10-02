@@ -17,7 +17,7 @@ docs:
       - title: "Deep-Learning Strategy"
         url: /docs/deep-learning-strategy/
       - title: "Bollinger-Band-Strategy"
-        url: /docs/bollinger-band-strategy/
+        url: /docs/bollinger-bands-strategy/
 
   - title: Study
     children:
