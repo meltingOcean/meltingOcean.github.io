@@ -1,6 +1,6 @@
 ---
 title: "Trend Labeling"
-permalink: /docs/Trend-Labeling/
+permalink: /docs/trend-labeling/
 excerpt: "Trend Labling"
 last_modified_at: 2021-09-25T14:33:05-04:00
 redirect_from:
