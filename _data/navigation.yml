@@ -18,6 +18,8 @@ docs:
         url: /docs/deep-learning-strategy/
       - title: "Bollinger-Bands-Strategy"
         url: /docs/bollinger-bands-strategy/
+      - title: "Trend_Labeling"
+        url: /docs/trend-labeling/
 
   - title: Study
     children:
