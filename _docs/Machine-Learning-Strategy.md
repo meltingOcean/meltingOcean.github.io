@@ -7,3 +7,5 @@ redirect_from:
   - /theme-setup/
 toc: true
 ---
+
+# SVM classifier(서포트벡터머신 분류기)
