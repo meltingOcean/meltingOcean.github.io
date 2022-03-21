@@ -6,7 +6,6 @@ gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem "commonmarker", ">= 0.23.4"
 gem "nokogiri", ">= 1.13.2"
-gem "activesupport", ">= 4.1.11"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
