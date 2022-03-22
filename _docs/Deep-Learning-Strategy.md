@@ -7,3 +7,8 @@ redirect_from:
   - /theme-setup/
 toc: true
 ---
+
+# CNN을 활용한 캔들차트 예측 분석
+
+ ## [캔들차트](/posts/20220322_1/)
+ ##
