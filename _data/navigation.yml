@@ -20,6 +20,14 @@ docs:
         url: /docs/bollinger-bands-strategy/
       - title: "Trend_Labeling"
         url: /docs/trend-labeling/
+        
+        
+  - title: Algorithmic_Trading
+    children:
+    - title: "Data-Gathering"
+      url: /docs/data-gathering/
+    - title: "Trading-Excution"
+      url: /docs/trading-excution/
 
   - title: Study
     children:
