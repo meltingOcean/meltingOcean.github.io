@@ -31,6 +31,9 @@ docs:
     children:
       - title: "AI"
         url: /docs/configuration/
+      - title: "Hadoop&Spark"
+        url: /docs/hadoop%spark
+
 
   - title: Project
     children:
