@@ -22,17 +22,17 @@ docs:
         
   - title: Algorithmic_Trading
     children:
-    - title: "Data-Gathering"
-      url: /docs/data-gathering/
-    - title: "Trading-Excution"
-      url: /docs/trading-excution/
+      - title: "Data-Gathering"
+        url: /docs/data-gathering/
+      - title: "Trading-Excution"
+        url: /docs/trading-excution/
 
   - title: Study
     children:
       - title: "AI"
         url: /docs/configuration/
       - title: "Hadoop&Spark"
-        url: /docs/hadoop&spark
+        url: /docs/hadoop&spark/
 
   - title: Project
     children:
