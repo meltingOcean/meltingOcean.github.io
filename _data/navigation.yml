@@ -32,7 +32,7 @@ docs:
       - title: "AI"
         url: /docs/configuration/
       - title: "Hadoop&Spark"
-        url: /docs/hadoop%spark
+        url: /docs/hadoop&spark
 
 
   - title: Project
